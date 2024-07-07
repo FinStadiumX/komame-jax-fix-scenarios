@@ -1,0 +1,10 @@
+//Zaraba
+//Check time priority according to Zaraba Method
+//Ex: time priority 
+//    10:30 Side=Buy Price=100 => 1st priority
+//    10:45 Side=Buy Price=100 => 2nd priority
+
+//Itayose
+//Check time priority according to Itayose Method
+
+//Check whether Zaraba or Itayose Method is applied when the condition met  
