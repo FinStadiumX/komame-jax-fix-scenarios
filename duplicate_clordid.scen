@@ -1,0 +1,50 @@
+// Duplicate clordid of non filled new order
+// Duplicate clordid of partially filled new order
+// Duplicate clordid of fully filled new order
+// Duplicate clordid of Same Symbol Different Side
+// Duplicate clordid of cancelled order  (dup cancelled clordid)
+// Duplicate clordid of cancelled order (with cancel request)
+
+// Duplicate clordid of IOC cancelled order (unsolicited cancel)
+// Duplicate clordid of FOK cancelled order (unsolicited cancel)
+
+// Duplicate clordid of rejected order (application ER reject)
+// Duplicate clordid of rejected order (session reject) get accepted
+
+// Duplicate clordid of New -> amended order (dup original clordid)
+// Duplicate clordid of New -> amended order (dup amended clordid)
+
+// Duplicate clordid of New -> amended -> partially filled order (dup original clordid)
+// Duplicate clordid of New -> amended -> partially filled order (dup amended clordid)
+// Duplicate clordid of New -> amended -> partially filled -> cancelled order (dup original clordid)
+// Duplicate clordid of New -> amended -> partially filled -> cancelled order (dup amended clordid)
+// Duplicate clordid of New -> amended -> partially filled -> cancelled order (dup cancelled clordid)
+// Duplicate clordid of New -> amended -> fully filled order (dup original clordid)
+// Duplicate clordid of New -> amended -> fully filled order (dup amended clordid)
+// Duplicate clordid of New -> amended -> cancelled order (dup original clordid)
+// Duplicate clordid of New -> amended -> cancelled order (dup amended clordid)
+// Duplicate clordid of New -> amended -> cancelled order (dup cancelled clordid)
+// Duplicate clordid of New -> amended -> partially filled order (dup original clordid)
+
+// Duplicate clordid of New -> Partially filled -> amended order (dup original clordid)
+// Duplicate clordid of New -> Partially filled -> amended order (dup amended clordid)
+// Duplicate clordid of New -> Partially filled -> amended -> cancelled order (dup original clordid)
+// Duplicate clordid of New -> Partially filled -> amended -> cancelled order (dup amended clordid)
+// Duplicate clordid of New -> Partially filled -> amended -> cancelled order (dup cancelled clordid)
+// Duplicate clordid of New -> Partially filled -> amended -> fully filled order (dup original clordid)
+// Duplicate clordid of New -> Partially filled -> amended -> fully filled order (dup amended clordid)
+// Duplicate clordid of New -> Partially filled -> amended -> partially filled order (dup original clordid)
+// Duplicate clordid of New -> Partially filled -> amended -> partially filled order (dup amended clordid)
+// Duplicate clordid of New -> Partially filled -> amended -> partially filled -> cancelled order (dup original clordid)
+// Duplicate clordid of New -> Partially filled -> amended -> partially filled -> cancelled order (dup amended clordid)
+
+// Duplicate clordid of New -> Fully filled -> amend order (dup original clordid)
+// Duplicate clordid of New -> Fully filled -> amended order (dup amend clordid)
+
+// Duplicate clordid of New -> Partially filled -> cancelled order (dup original clordid)
+// Duplicate clordid of New -> Partially filled -> cancelled order (dup cancelled clordid)
+// Duplicate clordid of New -> Partially filled -> fully filled order (dup original clordid)
+// Duplicate clordid of New -> Partially filled -> partially filled order (dup original clordid)
+
+// Duplicate clordid of New -> Fully filled -> cancelled order (dup original clordid)
+// Duplicate clordid of New -> Fully filled -> cancelled order (dup cancelled clordid)
