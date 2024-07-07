@@ -1,0 +1,3 @@
+//Short sale at a price above the last traded price
+//Short sale at a price below the last traded price (not below equal or more than 10%)
+//Short sale at a price equal or below 10% of the last traded price
