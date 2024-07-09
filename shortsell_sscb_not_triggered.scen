@@ -1,3 +1,6 @@
-//Short sale at a price above the last traded price
-//Short sale at a price below the last traded price (not below equal or more than 10%)
-//Short sale at a price equal or below 10% of the last traded price
+
+//Before a short sell price restriction is triggered, short sell orders at a price below 10% of the base price are not allowed.
+
+//Short sale at a price below the last traded price (not below equal or more than 10%), since not triggered, this should be accepted.
+
+//Short sale at a price equal or below 10% of the Base Price
