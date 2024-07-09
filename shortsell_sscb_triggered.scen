@@ -1,3 +1,12 @@
-//Short sale at a price above the last traded price
-//Short sale at a price equal the last traded price
-//Short sale at a price below the lasr traded price
+
+//Short sale at a price above the last traded price(UpTick)
+
+//Short sale at a price equal the last traded price(UpTick)
+
+//Short sale at a price below the lasr traded price(UpTick)
+
+//Short sale at a price above the last traded price(DownTick)
+
+//Short sale at a price equal the last traded price(DownTick)
+
+//Short sale at a price below the lasr traded price(DownTick)

@@ -1,10 +1,17 @@
-//Zaraba
-//Check time priority according to Zaraba Method
-//Ex: time priority 
-//    10:30 Side=Buy Price=100 => 1st priority
-//    10:45 Side=Buy Price=100 => 2nd priority
 
-//Itayose
-//Check time priority according to Itayose Method
 
-//Check whether Zaraba or Itayose Method is applied when the condition met  
+//Ex: Price/Time priority
+//Create a Buy book like this, Px could use base price of a symbol
+// BUY book:(assume priority after -> )
+// 10:00 Order1 Px    QTY:100  -> 2
+// 10:01 Order2 Px+1  QTY:100  -> 1
+// 10:02 Order3 Px    QTY:100  -> 3
+
+
+//Send sell order.
+// 10:03 Px QTY:100 will fill with Order2 
+// 10:04 Px QTY:100 will fill with Order1
+// 10:05 Px QTY:100 will fill with Order3
+
+
+

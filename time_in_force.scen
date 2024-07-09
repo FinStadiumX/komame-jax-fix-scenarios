@@ -1,6 +1,11 @@
 //Blank (should interpreted as 0 = Day)
+
 //Input 0,3,4 (0=Day,3=IOC,4=FOK)
+
 //Input number 2,5,6,7
+
 //Input alphabet or symbol
+
 //Input space
+
 //Test if the order get cancel according the Day,IOC or FOK
