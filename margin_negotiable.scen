@@ -1,0 +1,143 @@
+// Margin State : Restrict Standardized Margin Open, Margin Class : No classification, Side (54) = Buy (1), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open, Margin Class : No classification, Side (54) = Buy (1), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open, Margin Class : No classification, Side (54) = Sell (2), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open, Margin Class : No classification, Side (54) = Sell (2), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open, Margin Class : No classification, Side (54) = Sell Short (5), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open, Margin Class : No classification, Side (54) = Sell Short (5), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open, Margin Class : No classification, Side (54) = Sell Short Exempt (6), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open, Margin Class : No classification, Side (54) = Sell Short Exempt (6), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open, Margin Class : Standardized, Side (54) = Buy (1), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open, Margin Class : Standardized, Side (54) = Buy (1), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open, Margin Class : Standardized, Side (54) = Sell (2), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open, Margin Class : Standardized, Side (54) = Sell (2), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open, Margin Class : Standardized, Side (54) = Sell Short (5), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open, Margin Class : Standardized, Side (54) = Sell Short (5), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open, Margin Class : Standardized, Side (54) = Sell Short Exempt (6), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open, Margin Class : Standardized, Side (54) = Sell Short Exempt (6), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open, Margin Class : Loan, Side (54) = Buy (1), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open, Margin Class : Loan, Side (54) = Buy (1), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open, Margin Class : Loan, Side (54) = Sell (2), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open, Margin Class : Loan, Side (54) = Sell (2), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open, Margin Class : Loan, Side (54) = Sell Short (5), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open, Margin Class : Loan, Side (54) = Sell Short (5), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open, Margin Class : Loan, Side (54) = Sell Short Exempt (6), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open, Margin Class : Loan, Side (54) = Sell Short Exempt (6), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open with Sell, Margin Class : No classification, Side (54) = Buy (1), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open with Sell, Margin Class : No classification, Side (54) = Buy (1), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open with Sell, Margin Class : No classification, Side (54) = Sell (2), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open with Sell, Margin Class : No classification, Side (54) = Sell (2), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open with Sell, Margin Class : No classification, Side (54) = Sell Short (5), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open with Sell, Margin Class : No classification, Side (54) = Sell Short (5), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open with Sell, Margin Class : No classification, Side (54) = Sell Short Exempt (6), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open with Sell, Margin Class : No classification, Side (54) = Sell Short Exempt (6), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open with Sell, Margin Class : Standardized, Side (54) = Buy (1), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open with Sell, Margin Class : Standardized, Side (54) = Buy (1), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open with Sell, Margin Class : Standardized, Side (54) = Sell (2), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open with Sell, Margin Class : Standardized, Side (54) = Sell (2), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open with Sell, Margin Class : Standardized, Side (54) = Sell Short (5), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open with Sell, Margin Class : Standardized, Side (54) = Sell Short (5), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open with Sell, Margin Class : Standardized, Side (54) = Sell Short Exempt (6), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open with Sell, Margin Class : Standardized, Side (54) = Sell Short Exempt (6), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open with Sell, Margin Class : Loan, Side (54) = Buy (1), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open with Sell, Margin Class : Loan, Side (54) = Buy (1), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open with Sell, Margin Class : Loan, Side (54) = Sell (2), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open with Sell, Margin Class : Loan, Side (54) = Sell (2), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open with Sell, Margin Class : Loan, Side (54) = Sell Short (5), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open with Sell, Margin Class : Loan, Side (54) = Sell Short (5), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open with Sell, Margin Class : Loan, Side (54) = Sell Short Exempt (6), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : Restrict Standardized Margin Open with Sell, Margin Class : Loan, Side (54) = Sell Short Exempt (6), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : No restriction, Margin Class : No classification, Side (54) = Buy (1), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : No restriction, Margin Class : No classification, Side (54) = Buy (1), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : No restriction, Margin Class : No classification, Side (54) = Sell (2), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : No restriction, Margin Class : No classification, Side (54) = Sell (2), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : No restriction, Margin Class : No classification, Side (54) = Sell Short (5), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : No restriction, Margin Class : No classification, Side (54) = Sell Short (5), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : No restriction, Margin Class : No classification, Side (54) = Sell Short Exempt (6), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : No restriction, Margin Class : No classification, Side (54) = Sell Short Exempt (6), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : No restriction, Margin Class : Standardized, Side (54) = Buy (1), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : No restriction, Margin Class : Standardized, Side (54) = Buy (1), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : No restriction, Margin Class : Standardized, Side (54) = Sell (2), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : No restriction, Margin Class : Standardized, Side (54) = Sell (2), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : No restriction, Margin Class : Standardized, Side (54) = Sell Short (5), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : No restriction, Margin Class : Standardized, Side (54) = Sell Short (5), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : No restriction, Margin Class : Standardized, Side (54) = Sell Short Exempt (6), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : No restriction, Margin Class : Standardized, Side (54) = Sell Short Exempt (6), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : No restriction, Margin Class : Loan, Side (54) = Buy (1), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : No restriction, Margin Class : Loan, Side (54) = Buy (1), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : No restriction, Margin Class : Loan, Side (54) = Sell (2), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : No restriction, Margin Class : Loan, Side (54) = Sell (2), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : No restriction, Margin Class : Loan, Side (54) = Sell Short (5), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : No restriction, Margin Class : Loan, Side (54) = Sell Short (5), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : No restriction, Margin Class : Loan, Side (54) = Sell Short Exempt (6), CashMargin (544) = Margin Open (2) , Margin Transaction Type (8214) = Negotiable (1)
+
+// Margin State : No restriction, Margin Class : Loan, Side (54) = Sell Short Exempt (6), CashMargin (544) = Margin Close (3),Margin Transaction Type (8214) = Negotiable (1)

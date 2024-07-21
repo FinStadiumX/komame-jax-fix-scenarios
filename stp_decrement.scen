@@ -1,0 +1,4 @@
+// Same MPID, Send Order1 BUY Qty:300, Order2 SELL Qty:200 -> Order1 remain Qty:100, Order2 Cancel
+
+// Same MPID, Send Order1 BUY Qty:100, Order2 SELL Qty:300 -> Order1 Cancel, Order2 remain Qty:200
+ 
